@@ -1,0 +1,59 @@
+.intro-bg
+{
+  background-image: url('./Assets/Intro\ Page.png');
+  width: 100%;
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.intro-form
+{
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+  align-items: flex-start;
+  padding: 20px;
+  margin-right: 300px;
+  margin-top: 50px;
+}
+.intro-line
+{
+  font-size: 105px;
+  color: white;
+  font-weight: bolder;
+}
+.intro-info
+{
+  font-size: 30px;
+  color: white;
+  font-family:monospace;
+}
+.dots
+{
+  color: white;
+  font-size:50px;
+  margin-top: 50px;
+}
+.started-btn
+{
+  width:40%;
+  height: 6vh;
+  border-radius: 10px;
+  border: 1px;
+  font-size: 40px;
+  color: black;
+  font-weight: bolder;
+  margin-top: 180px;
+}
+.intro-img
+{
+  width: 40%;
+  height: 85vh;
+  margin-top: -620px;
+  align-self: flex-end;
+}
