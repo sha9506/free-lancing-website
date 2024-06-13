@@ -7,7 +7,9 @@
 {
   color: #AEB2BA;
 }
-
+.red{
+  color: red;
+}
 .navbar
 {
   display: flex;
